@@ -5,7 +5,6 @@ export default () => {
   return (
     <>
       <h1>Marketing</h1>
-      <p>Testing marketing build</p>
       <Marketing />
     </>
   );
